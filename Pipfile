@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sqlalchemy = "<3.0,>=2.0"
+langchain = "*"
+langchain-community = "*"
+langchain-huggingface = "*"
+faiss-cpu = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.17"
