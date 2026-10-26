@@ -6,9 +6,12 @@ name = "pypi"
 [packages]
 sqlalchemy = "<3.0,>=2.0"
 langchain = "*"
-langchain-community = "*"
 langchain-huggingface = "*"
 faiss-cpu = "*"
+langchain-community = "*"
+langchain-text-splitters = "*"
+pypdf = "*"
+fonttools = "*"
 
 [dev-packages]
 
