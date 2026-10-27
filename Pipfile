@@ -6,12 +6,13 @@ name = "pypi"
 [packages]
 sqlalchemy = "<3.0,>=2.0"
 langchain = "*"
-langchain-huggingface = "*"
 faiss-cpu = "*"
 langchain-community = "*"
 langchain-text-splitters = "*"
 pypdf = "*"
 fonttools = "*"
+langchain-huggingface = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
