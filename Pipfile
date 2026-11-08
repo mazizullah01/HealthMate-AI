@@ -13,6 +13,7 @@ pypdf = "*"
 fonttools = "*"
 langchain-huggingface = "*"
 sentence-transformers = "*"
+langchain-classic = "*"
 
 [dev-packages]
 
